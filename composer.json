@@ -1,5 +1,5 @@
 {
-    "name": "jantinnerezo/livewire-range-slider",
+    "name": "linksderisar/livewire-range-slider",
     "description": "A Tall Stack wrapper for noUiSlider Range Slider",
     "keywords": [
         "jantinnerezo",
@@ -16,13 +16,13 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
-        "illuminate/support": "^10.0"
+        "php": "^8.2",
+        "illuminate/support": "^11.0"
     },
     "require-dev": {
         "orchestra/testbench": "^8.0",
         "phpunit/phpunit": "^10.0",
-        "livewire/livewire": "^2.8"
+        "livewire/livewire": "^3.5"
     },
     "autoload": {
         "psr-4": {
